@@ -1,0 +1,57 @@
+<table style="style=width:200px; border: solid 1px;">
+  <tr>
+    <th style="border: solid 1px;">n</th>
+    <th style="border: solid 1px;">n^2</th>
+    <th style="border: solid 1px;">sumDigits</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">10</th>
+    <th style="border: solid 1px;">100</th>
+    <th style="border: solid 1px;">1</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">9</th>
+    <th style="border: solid 1px;">81</th>
+    <th style="border: solid 1px;">9</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">8</th>
+    <th style="border: solid 1px;">64</th>
+    <th style="border: solid 1px;">8</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">7</th>
+    <th style="border: solid 1px;">49</th>
+    <th style="border: solid 1px;">7</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">6</th>
+    <th style="border: solid 1px;">36</th>
+    <th style="border: solid 1px;">6</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">5</th>
+    <th style="border: solid 1px;">25</th>
+    <th style="border: solid 1px;">5</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">4</th>
+    <th style="border: solid 1px;">16</th>
+    <th style="border: solid 1px;">4</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">3</th>
+    <th style="border: solid 1px;">9</th>
+    <th style="border: solid 1px;">3</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">2</th>
+    <th style="border: solid 1px;">4</th>
+    <th style="border: solid 1px;">2</th>
+  </tr>
+  <tr>
+    <th style="border: solid 1px;">1</th>
+    <th style="border: solid 1px;">1</th>
+    <th style="border: solid 1px;">1</th>
+  </tr>
+</table>
